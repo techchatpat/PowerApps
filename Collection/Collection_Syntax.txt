@@ -1,0 +1,1 @@
+Testdata- Collect(TestRecord, {Stationery: "Pen", Quantity:10},{Stationery: "Pencil", Quantity:19},{Stationery: "NoteBook", Quantity:9})
